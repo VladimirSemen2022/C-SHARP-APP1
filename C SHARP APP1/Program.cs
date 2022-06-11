@@ -10,6 +10,8 @@ namespace C_SHARP_APP1
             string name = Console.ReadLine();
             for (int c = 0; c < name.Length; c++)
                 Console.WriteLine(name[c]);
+
+
         }
     }
 }
